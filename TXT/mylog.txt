@@ -6,4 +6,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC W00 10 LO3 GitHub related
+ZCZC W00 10 L03 GitHub Related
+ZCZC W00 5 L11 Created Public Repository
+ZCZC W00 10 L12 Created Week 00 Log
+ZCZC W00 10 L13 Created GitHub Page
+ZCZC W00 3 L14 Registered SCELE Course
+ZCZC W00 1 L01 Joined Discord Server
+ZCZC W00 105 L02 ZOOM Meeting
+ZCZC W00 15 L03 Update GitHub Log

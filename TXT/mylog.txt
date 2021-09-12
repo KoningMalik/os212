@@ -15,3 +15,7 @@ ZCZC W00 1 L01 Joined Discord Server
 ZCZC W00 105 L02 ZOOM Meeting
 ZCZC W00 15 L03 Update GitHub Log
 ZCZC W00 30 L15 Read Up on Operating Systems
+ZCZC W01 60 L11 Create VirtualBox and Guest
+ZCZC W01 60 L12 Import Virtual Guest
+ZCZC W01 45 L13 Read About Linux
+ZCZC W01 15 L14 Try Out Vi Editor

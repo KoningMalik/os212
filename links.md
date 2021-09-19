@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-[Home](.) | [GitHub](https://github.com/KoningMalik/os212) | [Log](TXT/mylog.txt) | [Links](links.md)
+[Home](https://koningmalik.github.io/os212/) | [GitHub](https://github.com/KoningMalik/os212) | [Log](TXT/mylog.txt) | [Links](links.md)
 
 ## Links
 

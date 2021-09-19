@@ -19,3 +19,8 @@ ZCZC W01 60 L11 Create VirtualBox and Guest
 ZCZC W01 60 L12 Import Virtual Guest
 ZCZC W01 45 L13 Read About Linux
 ZCZC W01 15 L14 Try Out Vi Editor
+ZCZC W01 15 L15 Create SSH Key on GitHub
+ZCZC W01 60 L16 Dress Up GitHub Page
+ZCZC W01 5 L17 Update Log
+ZCZC W01 20 L18 Read About Awk and Regex
+ZCZC W01 10 L19 Read OSC
